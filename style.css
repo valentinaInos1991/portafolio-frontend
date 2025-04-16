@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background-color: #fdfdfd;
+    color: #333;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  .proyecto {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin-bottom: 20px;
+  }
+  
