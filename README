@@ -1,0 +1,17 @@
+Durante el desarrollo de este proyecto se abordaron distintas etapas claves para construir una aplicación web funcional con React:
+
+Fundamentos de React: Aprendí a estructurar componentes, gestionar el estado local con useState, y trabajar con formularios dinámicos.
+
+Manejo del DOM Virtual: Implementé useEffect para actualizar eficientemente componentes como el listado de doctores, evitando recargas innecesarias.
+
+Consumo de APIs: Utilicé Axios por su simplicidad y eficiencia para conectarme a APIs simuladas y manejar peticiones HTTP.
+
+Propiedades y reutilización de componentes: Se implementó el paso de props entre componentes y la sincronización con useEffect.
+
+Autenticación de usuarios y control de roles: Se simularon usuarios, roles y sesiones protegidas, utilizando rutas privadas (ProtectedRoute) y localStorage.
+
+Seguridad en el Frontend: Se cifraron credenciales con CryptoJS (AES) antes de enviarlas, se validaron inputs y se previnieron vulnerabilidades comunes como XSS.
+
+Despliegue: Se aprendió a conectar el repositorio de GitHub con Netlify, desplegando la aplicación en línea.
+
+Este proyecto integró conocimientos de React, seguridad web, consumo de APIs y despliegue profesional, fortaleciendo mi comprensión completa del desarrollo frontend moderno.
